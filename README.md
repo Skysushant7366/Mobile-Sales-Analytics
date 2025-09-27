@@ -39,7 +39,7 @@ Screenshots/ → Dashboard preview images
 ![Recommendations](Screenshots/5%20Recommendations.png)
 
 📄 Access the Dashboard  
-👉 View Full Report (PDF/Mobile%20Sales%20Dashboard%20pdf.pdf)  
+👉 View Full Report (Mobile%20Sales%20Dashboard%20pdf.pdf)  
 📂 Download the `.pbix` file to explore interactively in Power BI
 
 👤 Author  
